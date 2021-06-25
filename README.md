@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## My main projects:
 
-- 😘 [hexo-blog](https://github.com/pudongping/pudongping.github.io.git) - This is the personal blog I am using.
-- ✌️ [larablog](https://github.com/pudongping/larablog.git) - This is a blog project I wrote before using the php laravel framework.
-- 👉 [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - ubiquitous-nodejs is a web scaffold which is based on node.js.
-- 👍 [document-converter](https://github.com/pudongping/document-converter.git) - A tool for converting between docx and pdf documents written in python3.
+- :kissing_heart: [hexo-blog](https://github.com/pudongping/pudongping.github.io.git) - This is the personal blog I am using.
+- :v: [larablog](https://github.com/pudongping/larablog.git) - This is a blog project I wrote before using the php laravel framework.
+- :point_right: [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - ubiquitous-nodejs is a web scaffold which is based on node.js.
+- :thumbsup: [document-converter](https://github.com/pudongping/document-converter.git) - A tool for converting between docx and pdf documents written in python3.
 - :rainbow: [weather](https://github.com/pudongping/weather.git) - PHP weather information Composer component based on AutoNavi open platform.
 </details>  
 
