@@ -1,4 +1,4 @@
-### Hi~ Thank you for coming! 👋
+### Hi~ Thank you for coming! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **pudongping/pudongping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
