@@ -26,11 +26,12 @@ Hi, I'm [Alex](https://pudongping.com), a passionate self-taught Full Stack web 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 <br/>
 
+<!-- details start -->
 <details>
 <summary>About My Open Source </summary>
 
@@ -42,5 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - :thumbsup: [document-converter](https://github.com/pudongping/document-converter.git) - A tool for converting between docx and pdf documents written in python3.
 - :rainbow: [weather](https://github.com/pudongping/weather.git) - PHP weather information Composer component based on AutoNavi open platform.
 </details>  
+<!-- details end-->
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api/?username=pudongping&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+📈 My GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=pudongping&show_icons=true&theme=gotham" alt="pudongping"></p>
