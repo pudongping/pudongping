@@ -15,7 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pudongping.pudongping)
+
+<br/>
+
 🎉 Welcome to my GitHub profile!
+
+Hi, I'm [Alex](https://pudongping.com), a passionate self-taught Full Stack web developer and a funnly software engineer from China. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
+<img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="320" />
+
+
+<br/>
 
 <details>
 <summary>About My Open Source </summary>
