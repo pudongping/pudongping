@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 > 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat%20-%23.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
-📊 This Week I Spent My Time On:
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Week: 19 June, 2021 - 25 June, 2021
