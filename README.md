@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-🎉 Welcome to my GitHub profile!
+🎉 **Welcome to my GitHub profile!**
 
 𝑯𝒊, 𝑰'𝒎 ✨ [𝑨𝒍𝒆𝒙](https://pudongping.com) ✨, 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒆𝒍𝒇-𝒕𝒂𝒖𝒈𝒉𝒕 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝒂 𝒇𝒖𝒏𝒏𝒍𝒚 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆, 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 > 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat%20-%23.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
-📊 **This Week I Spent My Time On:**
+## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
 Week: 19 June, 2021 - 25 June, 2021
