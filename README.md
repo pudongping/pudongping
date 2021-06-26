@@ -37,6 +37,17 @@ Hi, I'm ✨ [Alex](https://pudongping.com) ✨, a passionate self-taught Full St
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<!-- waka readme - https://github.com/athul/waka-readme -->
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+PHP         8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
+Python      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+JavaScript  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+HTML        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+```
+<!--END_SECTION:waka-->
 
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -79,6 +90,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=weather&show_owner=true&theme=nightowl" />
 </a>
 
-<!-- waka readme - https://github.com/athul/waka-readme -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
