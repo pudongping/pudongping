@@ -55,7 +55,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Hexo" src="https://img.shields.io/badge/Hexo-%23191f25.svg?logo=hexo&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-%2395e0d1.svg?logo=elastic&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -76,7 +79,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: [email](mailto:276558492@qq.com) 、![](https://img.shields.io/badge/ying5198023%20-%23.svg?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I am happy to help;
 
-> If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat%20-%23.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
+> 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat%20-%23.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://cdn.jsdelivr.net/gh/pudongping/pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
@@ -117,6 +120,8 @@ YAML       7 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudongping&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
 </p>
+
+## 👨‍💻 My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=pudongping&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
