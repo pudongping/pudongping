@@ -65,9 +65,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pudongping&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudongping&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pudongping&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
