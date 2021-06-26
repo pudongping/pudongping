@@ -27,13 +27,14 @@ Here are some ideas to get you started:
 <p align="center">
     <!-- https://visitor-badge.glitch.me/ -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=pudongping.pudongping" alt="visitors">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
 
 <br/>
 
 🎉 Welcome to my GitHub profile!
 
-Hi, I'm ✨ [Alex](https://pudongping.com) ✨, a passionate self-taught Full Stack web developer and a funnly software engineer from China. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm ✨ [Alex](https://pudongping.com) ✨, a passionate self-taught Full Stack web developer and a funnly software engineer from China. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
