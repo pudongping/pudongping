@@ -66,7 +66,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudongping&layout=compact&theme=tokyonight" alt="Alex's Top Langs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pudongping&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pudongping&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
 </p>
 
