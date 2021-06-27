@@ -99,9 +99,10 @@ Here are some ideas to get you started:
 ```text
 Week: 20 June, 2021 - 26 June, 2021
 
-Markdown   1 hr 38 mins    ███████████████████▓░░░░░   79.03 % 
-CSS        17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-YAML       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Markdown   6 hrs 18 mins   ██████████████████████▒░░   89.93 % 
+CSS        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+YAML       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+PHP        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 <!--END_SECTION:waka-->
 
