@@ -59,6 +59,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
+    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
+    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
