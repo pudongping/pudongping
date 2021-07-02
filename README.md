@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 ```text
 Week: 25 June, 2021 - 01 July, 2021
 
-PHP          15 hrs 58 mins  ██████████████▓░░░░░░░░░░   58.15 % 
-Markdown     7 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.71 % 
-Vue.js       2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-JavaScript   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+PHP          16 hrs 30 mins  ██████████████░░░░░░░░░░░   56.52 % 
+Markdown     7 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
+Vue.js       2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JavaScript   1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
 
