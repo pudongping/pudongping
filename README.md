@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
 PHP        11 hrs 54 mins  ████████████████▒░░░░░░░░   65.88 % 
 Vue.js     2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
