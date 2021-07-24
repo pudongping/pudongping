@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
 PHP        21 hrs 53 mins  ██████████████████████▒░░   88.97 % 
 Markdown   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
