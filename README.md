@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 ```text
 Week: 03 August, 2021 - 09 August, 2021
 
-PHP        28 hrs 19 mins  ████████████████▓░░░░░░░░   67.32 % 
-Other      5 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-JSON       2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Markdown   2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-INI        1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+PHP        27 hrs 31 mins  ███████████████▒░░░░░░░░░   60.96 % 
+Other      6 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+JSON       4 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Markdown   2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+INI        1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 <!--END_SECTION:waka-->
 
