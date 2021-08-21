@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 ```text
 Week: 14 August, 2021 - 20 August, 2021
 
-PHP        28 hrs 54 mins  ████████████████████▓░░░░   82.07 % 
+PHP        29 hrs 7 mins   ████████████████████▓░░░░   82.73 % 
 JSON       2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Markdown   1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Markdown   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 EJS        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 INI        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
