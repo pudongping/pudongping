@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 ```text
 Week: 14 November, 2021 - 20 November, 2021
 
-Go                33 hrs 37 mins  ████████████████░░░░░░░░░   64.56 % 
-PHP               11 hrs 36 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.30 % 
-Protocol Buffer   3 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON              1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Git Config        45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Go                33 hrs 47 mins  ██████████████▒░░░░░░░░░░   57.67 % 
+PHP               14 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Protocol Buffer   4 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Markdown          2 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON              1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 <!--END_SECTION:waka-->
 
