@@ -113,11 +113,32 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 
 ## 🔥 My main projects:
 
-- [hexo-blog](https://github.com/pudongping/pudongping.github.io.git) - 我正在使用的个人博客项目。
-- [larablog](https://github.com/pudongping/larablog.git) - 我以前使用 laravel6.x 写的博客项目。
-- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - 使用 node.js 封装的一个简易 web 框架。
-- [document-converter](https://github.com/pudongping/document-converter.git) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具。
-- [weather](https://github.com/pudongping/weather.git) - 基于高德开放平台写的一个 php composer 天气查询组件。
+- [hexo-blog](https://github.com/pudongping/pudongping.github.io) - 我正在使用的个人博客项目
+- [larablog](https://github.com/pudongping/larablog) - 基于 Laravel6.x 构建的博客应用，支持 Markdown，支持图片拖拽上传，基于 RBAC 权限管理系统
+- [notes](https://github.com/pudongping/notes) - 编程笔记
+- [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
+- [golang-tutorial](https://github.com/pudongping/golang-tutorial) - Go 学习笔记
+- [weather](https://github.com/pudongping/weather) - 基于高德开放平台写的一个 php composer 天气查询组件
+- [global-pay](https://github.com/pudongping/global-pay) - 简单易用的国际支付宝支付 php composer 插件包，支持花呗分期支付  
+- [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
+- [pudongping](https://github.com/pudongping/pudongping) - 个人简介
+- [goblog](https://github.com/pudongping/goblog) - 使用 go 撸的一个简易 MVC 版本的博客项目
+- [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 golang 用 consul 做 grpc 的服务注册与发现示例代码
+- [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
+- [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
+- [php-grpc-demo](https://github.com/pudongping/php-grpc-demo) - 基于 PHP7.4 搭建的 grpc 服务 demo
+- [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
+- [hyperf-json-rpc-demo](https://github.com/pudongping/hyperf-json-rpc-demo) - 使用 hyperf 框架搭建的 json rpc 服务 demo，服务注册中心使用的 consul
+- [hyperf-json-rpc-demo-interface](https://github.com/pudongping/hyperf-json-rpc-demo-interface) - hyperf-json-rpc-demo 项目的服务接口类，服务消费者和服务提供者会共用的接口
+- [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架
+- [php-base-container](https://github.com/pudongping/php-base-container) - 一个简易的 php 容器（类似于 Laravel 的服务容器）
+- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 使用 node.js 封装的一个简易 web 框架
+- [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具  
+- [lara-sample-api-5.5](https://github.com/pudongping/lara-sample-api-5.5) - 基于 laravel 5.5 封装的基础方法，以便快速开发符合业务场景api，统一了返回值，非常适合直接上手写api接口开发
+- [lara-sample-api](https://github.com/pudongping/lara-sample-api) - 基于 laravel 6.x 封装的基础方法，以便快速开发符合业务场景api，统一了返回值，非常适合直接上手写api接口开发
+- [lara-official-website](https://github.com/pudongping/lara-official-website) - 基于 laravel 6.x 开发的官网项目接口
+- [my_test_simple_framework](https://github.com/pudongping/my_test_simple_framework) - 自己用来练手设计模式封装的一套php简易MVC框架，支持简单的中间件、DB、ORM模型、助手函数等
+
 
 ---
 
