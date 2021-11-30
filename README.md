@@ -113,11 +113,11 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 
 ## 🔥 My main projects:
 
-- :kissing_heart: [hexo-blog](https://github.com/pudongping/pudongping.github.io.git) - This is the personal blog I am using.
-- :v: [larablog](https://github.com/pudongping/larablog.git) - This is a blog project I wrote before using the php laravel framework.
-- :point_right: [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - ubiquitous-nodejs is a web scaffold which is based on node.js.
-- :thumbsup: [document-converter](https://github.com/pudongping/document-converter.git) - A tool for converting between docx and pdf documents written in python3.
-- :rainbow: [weather](https://github.com/pudongping/weather.git) - PHP weather information Composer component based on AutoNavi open platform.
+- [hexo-blog](https://github.com/pudongping/pudongping.github.io.git) - 我正在使用的个人博客项目。
+- [larablog](https://github.com/pudongping/larablog.git) - 我以前使用 laravel6.x 写的博客项目。
+- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - 使用 node.js 封装的一个简易 web 框架。
+- [document-converter](https://github.com/pudongping/document-converter.git) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具。
+- [weather](https://github.com/pudongping/weather.git) - 基于高德开放平台写的一个 php composer 天气查询组件。
 
 ---
 
