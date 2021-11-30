@@ -168,8 +168,8 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 <a href="https://github.com/pudongping/pudongping.github.io.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=pudongping.github.io&show_owner=true&theme=nightowl" />
 </a>
-<a href="https://github.com/pudongping/weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=weather&show_owner=true&theme=nightowl" />
+<a href="https://github.com/pudongping/global-pay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=glopay-pay&show_owner=true&theme=nightowl" />
 </a>
 
 </details>
