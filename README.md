@@ -126,11 +126,11 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 - [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 golang 用 consul 做 grpc 的服务注册与发现示例代码
 - [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
 - [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
-- [php-grpc-demo](https://github.com/pudongping/php-grpc-demo) - 基于 PHP7.4 搭建的 grpc 服务 demo
 - [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
 - [hyperf-json-rpc-demo](https://github.com/pudongping/hyperf-json-rpc-demo) - 使用 hyperf 框架搭建的 json rpc 服务 demo，服务注册中心使用的 consul
 - [hyperf-json-rpc-demo-interface](https://github.com/pudongping/hyperf-json-rpc-demo-interface) - hyperf-json-rpc-demo 项目的服务接口类，服务消费者和服务提供者会共用的接口
 - [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架
+- [php-grpc-demo](https://github.com/pudongping/php-grpc-demo) - 基于 PHP7.4 搭建的 grpc 服务 demo
 - [php-base-container](https://github.com/pudongping/php-base-container) - 一个简易的 php 容器（类似于 Laravel 的服务容器）
 - [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 使用 node.js 封装的一个简易 web 框架
 - [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具  
