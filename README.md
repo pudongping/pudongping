@@ -134,10 +134,10 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 - [php-base-container](https://github.com/pudongping/php-base-container) - 一个简易的 php 容器（类似于 Laravel 的服务容器）
 - [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 使用 node.js 封装的一个简易 web 框架
 - [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具  
-- [lara-sample-api-5.5](https://github.com/pudongping/lara-sample-api-5.5) - 基于 laravel 5.5 封装的基础方法，以便快速开发符合业务场景api，统一了返回值，非常适合直接上手写api接口开发
-- [lara-sample-api](https://github.com/pudongping/lara-sample-api) - 基于 laravel 6.x 封装的基础方法，以便快速开发符合业务场景api，统一了返回值，非常适合直接上手写api接口开发
+- [lara-sample-api-5.5](https://github.com/pudongping/lara-sample-api-5.5) - 基于 laravel 5.5 封装的基础方法，以便快速开发符合业务场景 api
+- [lara-sample-api](https://github.com/pudongping/lara-sample-api) - 基于 laravel 6.x 封装的基础方法，以便快速开发符合业务场景 api
 - [lara-official-website](https://github.com/pudongping/lara-official-website) - 基于 laravel 6.x 开发的官网项目接口
-- [my_test_simple_framework](https://github.com/pudongping/my_test_simple_framework) - 自己用来练手设计模式封装的一套php简易MVC框架，支持简单的中间件、DB、ORM模型、助手函数等
+- [my_test_simple_framework](https://github.com/pudongping/my_test_simple_framework) - 自己用来练手设计模式封装的一套 php 简易 MVC 框架，支持简单的中间件、DB、ORM 模型等
 
 
 ---
