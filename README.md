@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 🛠️ **Languages and Tools:**
 <p>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/Golang-%238ed3f9.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -109,9 +110,6 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 
 <br/>
 
-<!-- details start -->
-<details>
-<summary>About My Open Source </summary>
 
 ## 🔥 My main projects:
 
@@ -120,10 +118,13 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 - :point_right: [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - ubiquitous-nodejs is a web scaffold which is based on node.js.
 - :thumbsup: [document-converter](https://github.com/pudongping/document-converter.git) - A tool for converting between docx and pdf documents written in python3.
 - :rainbow: [weather](https://github.com/pudongping/weather.git) - PHP weather information Composer component based on AutoNavi open platform.
-</details>
-<!-- details end-->
 
 ---
+
+
+<!-- details start -->
+<details>
+<summary>Others </summary>
 
 ## 📈 My GitHub Stats
 
@@ -149,3 +150,6 @@ Markdown          1 hr 2 mins     ▓░░░░░░░░░░░░░░�
 <a href="https://github.com/pudongping/weather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=weather&show_owner=true&theme=nightowl" />
 </a>
+
+</details>
+<!-- details end-->
