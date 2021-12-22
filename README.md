@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
 Go         19 hrs 24 mins  █████████████▓░░░░░░░░░░░   54.61 % 
 PHP        13 hrs 17 mins  █████████▒░░░░░░░░░░░░░░░   37.41 % 
