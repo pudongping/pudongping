@@ -111,11 +111,9 @@ Here are some ideas to get you started:
 ```text
 Week: 20 January, 2022 - 26 January, 2022
 
-PHP        5 hrs 59 mins   █████████████░░░░░░░░░░░░   52.46 % 
-Go         4 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.03 % 
-Other      39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-INI        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+PHP     2 hrs 24 mins   ██████████████████▒░░░░░░   72.79 % 
+Go      50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.55 % 
+Other   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 <!--END_SECTION:waka-->
 
