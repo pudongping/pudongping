@@ -109,7 +109,9 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 January, 2022 - 05 February, 2022
+
+
 ```
 <!--END_SECTION:waka-->
 
