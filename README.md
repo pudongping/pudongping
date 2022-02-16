@@ -111,13 +111,13 @@ Here are some ideas to get you started:
 ```text
 Week: 09 February, 2022 - 15 February, 2022
 
-Total: 33 hrs 19 mins
+Total: 39 hrs 34 mins
 
-Go                24 hrs 21 mins  ██████████████████▒░░░░░░   72.71 % 
-PHP               6 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Protocol Buffer   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-INI               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Bash              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Go                29 hrs 54 mins  ██████████████████▓░░░░░░   75.21 % 
+PHP               6 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Protocol Buffer   1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+INI               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Bash              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
