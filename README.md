@@ -111,8 +111,6 @@ Here are some ideas to get you started:
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 33 hrs 34 mins
-
 Go                26 hrs 51 mins  ████████████████████░░░░░   79.94 % 
 PHP               5 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 Protocol Buffer   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
