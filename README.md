@@ -110,12 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2022 - To: 29 March 2022
+From: 23 March 2022 - To: 30 March 2022
 
-PHP               33 hrs 11 mins  ████████████████░░░░░░░░░   63.90 %
-Go                15 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-Markdown          2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Other             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+PHP               32 hrs 10 mins  ██████████████▓░░░░░░░░░░   58.73 %
+Go                19 hrs 33 mins  █████████░░░░░░░░░░░░░░░░   35.69 %
+Markdown          2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+YAML              19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JSON              13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Makefile          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
