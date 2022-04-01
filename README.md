@@ -136,7 +136,11 @@ Other             23 mins         ▒░░░░░░░░░░░░░░�
 - [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
 - [pudongping](https://github.com/pudongping/pudongping) - 个人简介
 - [goblog](https://github.com/pudongping/goblog) - 使用 go 撸的一个简易 MVC 版本的博客项目
-- [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 golang 用 consul 做 grpc 的服务注册与发现示例代码
+- [go-im-system](https://github.com/pudongping/go-im-system) - 使用 go 写的一个简易即时通讯系统 
+- [gin-blog-service](https://github.com/pudongping/gin-blog-service) - 学习 gin 框架写的一个简易博客项目  
+- [gin-biz-web-api](https://github.com/pudongping/gin-biz-web-api) -   基于 gin 框架封装的业务 web api 脚手架，可直接拿过来上手开发业务逻辑代码
+- [go-tour](https://github.com/pudongping/go-tour) - 使用 Go 编写的一些实用小工具，比如：mysql 数据表结构转结构体、单词转换、时间转换、json 字符串转结构体
+- [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 Golang 用 consul 做 grpc 的服务注册与发现示例代码
 - [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
 - [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
 - [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
