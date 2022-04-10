@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2022 - To: 09 April 2022
+From: 03 April 2022 - To: 10 April 2022
 
-PHP          12 hrs 49 mins  ███████▒░░░░░░░░░░░░░░░░░   29.42 %
-JavaScript   12 hrs 12 mins  ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Vue.js       9 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-Go           5 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+PHP          12 hrs 49 mins  ███████▓░░░░░░░░░░░░░░░░░   31.02 %
+JavaScript   9 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+Vue.js       8 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+Go           7 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
