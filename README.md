@@ -141,6 +141,7 @@ XML          25 mins         ▒░░░░░░░░░░░░░░░░
 - [gin-blog-service](https://github.com/pudongping/gin-blog-service) - 学习 gin 框架写的一个简易博客项目  
 - [gin-biz-web-api](https://github.com/pudongping/gin-biz-web-api) -   基于 gin 框架封装的业务 web api 脚手架，可直接拿过来上手开发业务逻辑代码
 - [go-tour](https://github.com/pudongping/go-tour) - 使用 Go 编写的一些实用小工具，比如：mysql 数据表结构转结构体、单词转换、时间转换、json 字符串转结构体
+- [go-crypto](https://github.com/pudongping/go-crypto) - 封装的一些 go 相关的加密和解密方法  
 - [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 Golang 用 consul 做 grpc 的服务注册与发现示例代码
 - [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
 - [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
