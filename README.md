@@ -110,13 +110,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 July 2022 - To: 19 July 2022
+From: 13 July 2022 - To: 20 July 2022
 
-Go         15 hrs 57 mins  █████████████████░░░░░░░░   67.89 %
-PHP        6 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Markdown   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Docker     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go         14 hrs 3 mins   ██████████████████▒░░░░░░   73.77 %
+PHP        3 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+Markdown   1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Docker     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
