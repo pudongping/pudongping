@@ -110,14 +110,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-PHP               9 hrs 18 mins   █████████████░░░░░░░░░░░░   52.27 %
-Go                7 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.18 %
-Text              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-INI               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Protocol Buffer   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Go                12 hrs 58 mins  ████████████▓░░░░░░░░░░░░   50.86 %
+PHP               11 hrs 43 mins  ███████████▒░░░░░░░░░░░░░   45.98 %
+Other             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
