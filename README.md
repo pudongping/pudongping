@@ -136,6 +136,7 @@ Other        16 mins         ▒░░░░░░░░░░░░░░░░
 - [pudongping](https://github.com/pudongping/pudongping) - 个人简介
 - [goblog](https://github.com/pudongping/goblog) - 使用 go 撸的一个简易 MVC 版本的博客项目
 - [go-im-system](https://github.com/pudongping/go-im-system) - 使用 go 写的一个简易即时通讯系统 
+- [go-chat-room](https://github.com/pudongping/go-chat-room) - 使用 go 写的一个简单聊天室  
 - [gin-blog-service](https://github.com/pudongping/gin-blog-service) - 学习 gin 框架写的一个简易博客项目  
 - [gin-biz-web-api](https://github.com/pudongping/gin-biz-web-api) -   基于 gin 框架封装的业务 web api 脚手架，可直接拿过来上手开发业务逻辑代码
 - [go-tour](https://github.com/pudongping/go-tour) - 使用 Go 编写的一些实用小工具，比如：mysql 数据表结构转结构体、单词转换、时间转换、json 字符串转结构体
