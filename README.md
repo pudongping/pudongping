@@ -112,10 +112,10 @@ Here are some ideas to get you started:
 ```text
 From: 11 August 2022 - To: 18 August 2022
 
-PHP          16 hrs 18 mins  █████████████▓░░░░░░░░░░░   55.12 %
-Go           9 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 %
-Markdown     2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+PHP          13 hrs 12 mins  █████████████░░░░░░░░░░░░   51.86 %
+Go           9 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
+Markdown     2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
