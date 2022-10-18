@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
+From: 11 October 2022 - To: 18 October 2022
 
-Go                12 hrs 29 mins  ███████████████▒░░░░░░░░░   61.55 %
-PHP               3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-Protocol Buffer   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Bash              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-protobuf          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Python            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Go                12 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.68 %
+PHP               4 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+JSON              2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Bash              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Protocol Buffer   1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+HTML              43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
