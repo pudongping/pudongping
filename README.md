@@ -132,7 +132,7 @@ Protocol Buffer   38 mins         ▒░░░░░░░░░░░░░░�
 - [notes](https://github.com/pudongping/notes) - 编程笔记
 - [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
 - [golang-tutorial](https://github.com/pudongping/golang-tutorial) - Go 学习笔记
-- [weather](https://github.com/pudongping/weather) - 基于高德开放平台写的一个 php composer 天气查询组件
+- [weather](https://github.com/pudongping/weather) - php composer 天气查询组件
 - [global-pay](https://github.com/pudongping/global-pay) - 简单易用的国际支付宝支付 php composer 插件包，支持花呗分期支付  
 - [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
 - [pudongping](https://github.com/pudongping/pudongping) - 个人简介
@@ -140,6 +140,7 @@ Protocol Buffer   38 mins         ▒░░░░░░░░░░░░░░�
 - [go-im-system](https://github.com/pudongping/go-im-system) - 使用 go 写的一个简易即时通讯系统 
 - [go-chat-room](https://github.com/pudongping/go-chat-room) - 使用 go 写的一个简单聊天室  
 - [gin-blog-service](https://github.com/pudongping/gin-blog-service) - 学习 gin 框架写的一个简易博客项目  
+- [go-grpc-service](https://github.com/pudongping/go-grpc-service) - 学习 grpc 时写的一点儿实验代码
 - [gin-biz-web-api](https://github.com/pudongping/gin-biz-web-api) -   基于 gin 框架封装的业务 web api 脚手架，可直接拿过来上手开发业务逻辑代码
 - [go-tour](https://github.com/pudongping/go-tour) - 使用 Go 编写的一些实用小工具，比如：mysql 数据表结构转结构体、单词转换、时间转换、json 字符串转结构体
 - [go-crypto](https://github.com/pudongping/go-crypto) - 封装的一些 go 相关的加密和解密方法  
