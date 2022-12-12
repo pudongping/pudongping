@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-PHP               24 hrs 59 mins  █████████████████▓░░░░░░░   71.10 %
-SQL               4 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Go                2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Vue.js            1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Docker            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Text              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+PHP               28 hrs 10 mins  ███████████████████▒░░░░░   76.68 %
+SQL               4 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Go                1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JSON              39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Vue.js            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Bash              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
