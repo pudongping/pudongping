@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
+From: 15 December 2022 - To: 22 December 2022
 
-PHP               18 hrs 2 mins   ████████████████░░░░░░░░░   63.37 %
-Go                5 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Vue.js            1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Bash              52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Markdown          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-YAML              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+PHP               10 hrs 36 mins  ███████████▓░░░░░░░░░░░░░   46.25 %
+Go                6 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+Vue.js            1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Bash              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+YAML              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
