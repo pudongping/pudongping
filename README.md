@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 01 January 2023
+From: 26 December 2022 - To: 02 January 2023
 
-Go                11 hrs 50 mins  ███████████▓░░░░░░░░░░░░░   46.78 %
-Markdown          3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Api File          3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-YAML              2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Bash              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-PHP               51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Go                13 hrs 45 mins  ████████████▓░░░░░░░░░░░░   50.91 %
+Markdown          4 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Api File          3 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+YAML              2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Bash              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Protocol Buffer   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
