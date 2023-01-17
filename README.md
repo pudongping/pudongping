@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
+From: 10 January 2023 - To: 17 January 2023
 
-PHP               7 hrs 57 mins   ████████████████▒░░░░░░░░   65.44 %
-JSON              2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Markdown          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Docker            34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JavaScript        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+PHP               5 hrs 38 mins   █████████████████████▓░░░   86.89 %
+JSON              29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+YAML              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Docker            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+.env file         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
