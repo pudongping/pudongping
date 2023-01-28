@@ -110,7 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 January 2023 - To: 28 January 2023
+
+PHP            4 hrs 52 mins   █████████████████████████   99.88 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+.env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
