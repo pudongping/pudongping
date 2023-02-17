@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-PHP                17 hrs 40 mins  ██████████████████▒░░░░░░   72.69 %
-Python             2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Go                 1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JSON               1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Bash               55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Text               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+PHP                20 hrs 25 mins  ██████████████████▓░░░░░░   75.04 %
+Python             3 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+JSON               1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash               51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Go                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Shell Script       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
