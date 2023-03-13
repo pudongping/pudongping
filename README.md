@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
 Python   4 mins          █████████████████████████   100.00 %
 ```
