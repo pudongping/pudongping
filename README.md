@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-Go                 22 hrs 51 mins  ████████████████░░░░░░░░░   63.66 %
-Python             8 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-Protocol Buffer    1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-PHP                1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Markdown           29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-protobuf           27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Go                 20 hrs 21 mins  █████████████▓░░░░░░░░░░░   54.00 %
+Python             8 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+PHP                4 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Protocol Buffer    1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Markdown           40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+protobuf           39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
