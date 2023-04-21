@@ -110,14 +110,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-PHP               16 hrs 17 mins  ███████████████░░░░░░░░░░   59.82 %
-Go                5 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Vue.js            2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-JavaScript        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Bash              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Markdown          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+PHP               12 hrs 1 min    ████████████░░░░░░░░░░░░░   48.39 %
+Go                5 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Vue.js            4 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+JavaScript        1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+TypeScript        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+INI               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
