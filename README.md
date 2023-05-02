@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 01 May 2023
+From: 25 April 2023 - To: 02 May 2023
 
 Go               5 hrs 15 mins   ███████████████████░░░░░░   76.07 %
 Bash             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
