@@ -110,13 +110,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
-Go               5 hrs 15 mins   ███████████████████░░░░░░   76.07 %
-Bash             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Markdown         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Api File         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-go.mod           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
