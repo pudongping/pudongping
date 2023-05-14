@@ -110,13 +110,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2023 - To: 13 May 2023
+From: 07 May 2023 - To: 14 May 2023
 
-Go             18 hrs 24 mins  █████████████████░░░░░░░░   68.43 %
-PHP            5 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Api File       1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Markdown       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Bash           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Go                21 hrs 20 mins  █████████████████░░░░░░░░   67.68 %
+PHP               5 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Markdown          1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Api File          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+YAML              42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
