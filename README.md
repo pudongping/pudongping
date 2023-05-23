@@ -110,13 +110,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2023 - To: 22 May 2023
+From: 16 May 2023 - To: 23 May 2023
 
-Go               16 hrs 12 mins  ██████████▓░░░░░░░░░░░░░░   42.23 %
-PHP              12 hrs 32 mins  ████████▒░░░░░░░░░░░░░░░░   32.68 %
-Vue.js           2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-JavaScript       2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Api File         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Go               13 hrs 55 mins  █████████░░░░░░░░░░░░░░░░   35.85 %
+PHP              12 hrs 9 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+Vue.js           5 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+JavaScript       2 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Api File         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
