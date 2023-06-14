@@ -110,13 +110,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2023 - To: 13 June 2023
+From: 07 June 2023 - To: 14 June 2023
 
-PHP         39 hrs 8 mins   ████████████████████████░   96.63 %
-.env file   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Bash        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Go          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-SQL         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PHP         40 hrs 47 mins  ███████████████████████▓░   95.10 %
+.env file   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Markdown    41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Bash        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Go          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
