@@ -250,5 +250,8 @@ Bash             15 mins         ░░░░░░░░░░░░░░░�
     <li>
         <a href="https://shields.io">Shields.io</a>
     </li>
+    <li>
+        <a href="https://hits.dwyl.com/">HITS</a>
+    </li>
   </ol>
 </details>
