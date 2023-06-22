@@ -183,6 +183,7 @@ Bash             15 mins         ░░░░░░░░░░░░░░░�
 
 ---
 
+[//]: # ( see detail: https://metrics.lecoq.io/insights/pudongping  )
 ![Metrics](https://metrics.lecoq.io/pudongping?template=classic&isocalendar=1&lines=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=columns)
 
 ---
@@ -212,9 +213,42 @@ Bash             15 mins         ░░░░░░░░░░░░░░░�
 <a href="https://github.com/pudongping/global-pay.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=global-pay&show_owner=true&theme=nightowl" />
 </a>
+<a href="https://github.com/pudongping/hyperf-throttle-requests.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-throttle-requests&show_owner=true&theme=nightowl" />
+</a>
 <a href="https://github.com/pudongping/pudongping.github.io.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=pudongping.github.io&show_owner=true&theme=nightowl" />
 </a>
 
 </details>
 <!-- details end-->
+
+---
+
+<details>
+  <summary><b>Things used in this README</b></summary>
+  <br>
+  <ol>
+    <li>
+        <a href="https://www.dute.org/weird-fonts">怪异英文生成器</a>
+    </li>
+    <li>
+      <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Visitor Badge Reloaded</a>
+    </li>
+    <li>
+      <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
+    </li>
+    <li>
+      <a href="https://github.com/athul/waka-readme">waka-readme</a>
+    </li>
+    <li>
+      <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+    </li>
+    <li>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>
+    </li>
+    <li>
+        <a href="https://shields.io">Shields.io</a>
+    </li>
+  </ol>
+</details>
