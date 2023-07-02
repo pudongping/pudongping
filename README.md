@@ -113,13 +113,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-PHP               34 hrs 39 mins  ███████████████████░░░░░░   76.14 %
-JSON              3 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Go                2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Markdown          1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Text              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+PHP               32 hrs 50 mins  ██████████████████▓░░░░░░   74.59 %
+JSON              3 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Go                2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Markdown          2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Text              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
