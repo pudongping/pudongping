@@ -143,6 +143,7 @@ Text              31 mins         ▒░░░░░░░░░░░░░░�
 - [weather](https://github.com/pudongping/weather) - php composer 天气查询组件
 - [larablog](https://github.com/pudongping/larablog) - 基于 Laravel6.x 构建的博客应用，支持 Markdown，支持图片拖拽上传，基于 RBAC 权限管理系统
 - [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架
+- [hyperf-kit](https://github.com/pudongping/hyperf-kit) - 基于 Hyperf 框架提供的实用工具类或者函数，让开发变得更快、更轻松
 - [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
 - [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
 - [hyperf-json-rpc-demo](https://github.com/pudongping/hyperf-json-rpc-demo) - 使用 hyperf 框架搭建的 json rpc 服务 demo，服务注册中心使用的 consul
@@ -153,6 +154,7 @@ Text              31 mins         ▒░░░░░░░░░░░░░░�
 - [lara-sample-api-5.5](https://github.com/pudongping/lara-sample-api-5.5) - 基于 laravel 5.5 封装的基础方法，以便快速开发符合业务场景 api
 - [lara-sample-api](https://github.com/pudongping/lara-sample-api) - 基于 laravel 6.x 封装的基础方法，以便快速开发符合业务场景 api
 - [lara-official-website](https://github.com/pudongping/lara-official-website) - 基于 laravel 6.x 开发的官网项目接口
+- [smart-assist](https://github.com/pudongping/smart-assist) - 收录一些高频 php 助手函数，提高工作效率
 
 ### Go
 
@@ -184,7 +186,7 @@ Text              31 mins         ▒░░░░░░░░░░░░░░�
 ---
 
 [//]: # ( see detail: https://metrics.lecoq.io/insights/pudongping  )
-![Metrics](https://metrics.lecoq.io/pudongping?template=classic&isocalendar=1&lines=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=columns)
+![Metrics](https://metrics.lecoq.io/pudongping?template=classic&isocalendar=1&lines=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai&config.twemoji=true)
 
 ---
 
