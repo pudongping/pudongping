@@ -140,10 +140,10 @@ Text              31 mins         ▒░░░░░░░░░░░░░░�
 
 - [global-pay](https://github.com/pudongping/global-pay) - 简单易用的国际支付宝支付 php composer 插件包，支持花呗分期支付
 - [hyperf-throttle-requests](https://github.com/pudongping/hyperf-throttle-requests) - 适配 hyperf 框架的请求频率限流器。功能类似于 laravel 框架的 throttle 中间件
+- [hyperf-kit](https://github.com/pudongping/hyperf-kit) - 基于 Hyperf 框架提供的实用工具类或者函数，让开发变得更快、更轻松
 - [weather](https://github.com/pudongping/weather) - php composer 天气查询组件
 - [larablog](https://github.com/pudongping/larablog) - 基于 Laravel6.x 构建的博客应用，支持 Markdown，支持图片拖拽上传，基于 RBAC 权限管理系统
 - [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架
-- [hyperf-kit](https://github.com/pudongping/hyperf-kit) - 基于 Hyperf 框架提供的实用工具类或者函数，让开发变得更快、更轻松
 - [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
 - [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
 - [hyperf-json-rpc-demo](https://github.com/pudongping/hyperf-json-rpc-demo) - 使用 hyperf 框架搭建的 json rpc 服务 demo，服务注册中心使用的 consul
@@ -217,6 +217,18 @@ Text              31 mins         ▒░░░░░░░░░░░░░░�
 </a>
 <a href="https://github.com/pudongping/hyperf-throttle-requests.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-throttle-requests&show_owner=true&theme=nightowl" />
+</a>
+<a href="https://github.com/pudongping/hyperf-kit.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-kit&show_owner=true&theme=nightowl" />
+</a>
+<a href="https://github.com/pudongping/smart-assist.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=smart-assist&show_owner=true&theme=nightowl" />
+</a>
+<a href="https://github.com/pudongping/go-tour.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=go-tour&show_owner=true&theme=nightowl" />
+</a>
+<a href="https://github.com/pudongping/go-function-helpers.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=go-function-helpers&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/pudongping/pudongping.github.io.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=pudongping.github.io&show_owner=true&theme=nightowl" />
