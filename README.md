@@ -135,6 +135,7 @@ JSON             8 mins          ░░░░░░░░░░░░░░░�
 - [hexo-blog](https://github.com/pudongping/pudongping.github.io) - 我正在使用的个人博客项目
 - [notes](https://github.com/pudongping/notes) - 编程笔记
 - [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
+- [load-balancer](https://github.com/pudongping/load-balancer) - 几种负载均衡调度算法，提供 php 和 go 示例
 
 ### PHP
 
