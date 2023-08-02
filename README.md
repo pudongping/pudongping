@@ -52,11 +52,6 @@ Here are some ideas to get you started:
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
 
-🏆 **Certificate:** 
-
-- [RHCSA](https://rhtapps.redhat.com/verify?certId=190-230-177)
-- [RHCE](https://rhtapps.redhat.com/verify?certId=190-230-177)
-
 🛠️ **My Tech Stack and Tools:**
 
 <p>
@@ -117,7 +112,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="macOS" src="https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=white" /></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /></a>
     <a href="#"><img alt="RedHat" src="https://img.shields.io/badge/RedHat-black?logo=redhat&logoColor=da2f20" /></a>
-    <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-020007?logo=centos&logoColor=965389" /></a>
+    <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-3a3c3c?logo=centos&logoColor=965389" /></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /></a>
 </p>
 
@@ -147,6 +142,12 @@ Here are some ideas to get you started:
 
 > 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
 
+🏆 **Certificate:**
+
+- [RHCSA](https://rhtapps.redhat.com/verify?certId=190-230-177)
+- [RHCE](https://rhtapps.redhat.com/verify?certId=190-230-177)
+
+
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -164,7 +165,6 @@ Bash           9 mins          ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br/>
-
 
 ## 🔥 My projects:
 
