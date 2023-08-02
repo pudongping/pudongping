@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
 
+🏆 **Certificate:** 
+
+- [RHCSA](https://rhtapps.redhat.com/verify?certId=190-230-177)
+- [RHCE](https://rhtapps.redhat.com/verify?certId=190-230-177)
+
 🛠️ **My Tech Stack and Tools:**
 
 <p>
@@ -111,6 +116,8 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
     <a href="#"><img alt="macOS" src="https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=white" /></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /></a>
+    <a href="#"><img alt="RedHat" src="https://img.shields.io/badge/RedHat-black?logo=redhat&logoColor=da2f20" /></a>
+    <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-020007?logo=centos&logoColor=965389" /></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /></a>
 </p>
 
