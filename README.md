@@ -153,13 +153,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 09 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
-PHP              28 hrs 11 mins  █████████████████████▓░░░   87.11 %
-YAML             1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-INI              52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-SmartyConfig     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-.env file        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+PHP              24 hrs 22 mins  ███████████████████▒░░░░░   77.99 %
+YAML             1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Bash             1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Markdown         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+INI              52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
