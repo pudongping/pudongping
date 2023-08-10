@@ -175,6 +175,7 @@ SmartyConfig     40 mins         ▓░░░░░░░░░░░░░░�
 - [notes](https://github.com/pudongping/notes) - 编程笔记
 - [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
 - [load-balancer](https://github.com/pudongping/load-balancer) - 几种负载均衡调度算法，提供 php 和 go 示例
+- [polyglot-script-box](https://github.com/pudongping/polyglot-script-box) - 记录工作中常用的脚本，包含且不仅限于 PHP 脚本、Golang 脚本、Python 脚本、Shell 脚本以及 Dockfile 等
 
 ### PHP
 
