@@ -179,12 +179,13 @@ Shell Script     5 mins          ░░░░░░░░░░░░░░░�
 
 ### PHP
 
+- [wise-locksmith](https://github.com/pudongping/wise-locksmith) - 一个与框架无关的互斥锁库，用于在高并发场景下提供 PHP 代码的序列化执行
 - [global-pay](https://github.com/pudongping/global-pay) - 简单易用的国际支付宝支付 php composer 插件包，支持花呗分期支付
 - [hyperf-throttle-requests](https://github.com/pudongping/hyperf-throttle-requests) - 适配 hyperf 框架的请求频率限流器。功能类似于 laravel 框架的 throttle 中间件
 - [hyperf-kit](https://github.com/pudongping/hyperf-kit) - 基于 Hyperf 框架提供的实用工具类或者函数，让开发变得更快、更轻松
+- [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架，可直接拿过来当项目骨架使用。
 - [weather](https://github.com/pudongping/weather) - php composer 天气查询组件
 - [larablog](https://github.com/pudongping/larablog) - 基于 Laravel6.x 构建的博客应用，支持 Markdown，支持图片拖拽上传，基于 RBAC 权限管理系统
-- [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架
 - [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
 - [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
 - [hyperf-json-rpc-demo](https://github.com/pudongping/hyperf-json-rpc-demo) - 使用 hyperf 框架搭建的 json rpc 服务 demo，服务注册中心使用的 consul
@@ -212,7 +213,6 @@ Shell Script     5 mins          ░░░░░░░░░░░░░░░�
 - [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 Golang 用 consul 做 grpc 的服务注册与发现示例代码
 - [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
 - [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
-- [go-tour](https://github.com/pudongping/go-tour) - go 命令行工具应用
 - [go-function-helpers](https://github.com/pudongping/go-function-helpers) - 收录一些高频、实用的 Go 语言助手函数，避免重复造轮子，提高开发效率
 
 ### Python
@@ -221,7 +221,7 @@ Shell Script     5 mins          ░░░░░░░░░░░░░░░�
 
 ### Node.js
 
-- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 使用 node.js 封装的一个简易 web 框架
+- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 框架
 
 
 ---
@@ -253,6 +253,9 @@ Shell Script     5 mins          ░░░░░░░░░░░░░░░�
 ## 📘 My own favorite open source projects
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/pudongping/wise-locksmith.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=wise-locksmith&show_owner=true&theme=nightowl" />
+</a>
 <a href="https://github.com/pudongping/global-pay.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=global-pay&show_owner=true&theme=nightowl" />
 </a>
