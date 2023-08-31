@@ -184,6 +184,9 @@ JSON             18 mins         █▒░░░░░░░░░░░░░�
 - [hyperf-throttle-requests](https://github.com/pudongping/hyperf-throttle-requests) - 适配 hyperf 框架的请求频率限流器。功能类似于 laravel 框架的 throttle 中间件
 - [hyperf-kit](https://github.com/pudongping/hyperf-kit) - 基于 Hyperf 框架提供的实用工具类或者函数，让开发变得更快、更轻松
 - [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架，可直接拿过来当项目骨架使用。
+- [hyperf-alarm-clock](https://github.com/pudongping/hyperf-alarm-clock) - 计算代码执行时间，超时并发送通知的小工具。
+- [hyperf-wise-locksmith](https://github.com/pudongping/hyperf-wise-locksmith) - 适配 hyperf 框架的互斥锁库，用于在高并发场景下提供 PHP 代码的有序执行。
+- [wise-locksmith](https://github.com/pudongping/wise-locksmith) - 一个不局限于框架的互斥锁库，用于在高并发场景下提供 PHP 代码的互斥执行。
 - [weather](https://github.com/pudongping/weather) - php composer 天气查询组件
 - [larablog](https://github.com/pudongping/larablog) - 基于 Laravel6.x 构建的博客应用，支持 Markdown，支持图片拖拽上传，基于 RBAC 权限管理系统
 - [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
@@ -218,6 +221,7 @@ JSON             18 mins         █▒░░░░░░░░░░░░░�
 ### Python
 
 - [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具
+- [py-TOTP](https://github.com/pudongping/py-TOTP) - 一个通过密钥生成 TOTP （Time-based One-time Password）的 Python 小工具。如果你需要开启 2FA ，可能你用得着。
 
 ### Node.js
 
@@ -259,11 +263,17 @@ JSON             18 mins         █▒░░░░░░░░░░░░░�
 <a href="https://github.com/pudongping/global-pay.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=global-pay&show_owner=true&theme=nightowl" />
 </a>
+<a href="https://github.com/pudongping/hyperf-wise-locksmith.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-wise-locksmith&show_owner=true&theme=nightowl" />
+</a>
 <a href="https://github.com/pudongping/hyperf-throttle-requests.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-throttle-requests&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/pudongping/hyperf-kit.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-kit&show_owner=true&theme=nightowl" />
+</a>
+<a href="https://github.com/pudongping/hyperf-alarm-clock.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-alarm-clock&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/pudongping/smart-assist.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=smart-assist&show_owner=true&theme=nightowl" />
