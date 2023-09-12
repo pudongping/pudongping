@@ -216,6 +216,7 @@ Ezhil            10 mins         ▒░░░░░░░░░░░░░░�
 - [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
 - [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
 - [go-function-helpers](https://github.com/pudongping/go-function-helpers) - 收录一些高频、实用的 Go 语言助手函数，避免重复造轮子，提高开发效率
+- [go-cache-example](https://github.com/pudongping/go-cache-example) - 进程内缓存示例。常用的缓存淘汰算法（FIFO、LFU、LRU）。
 
 ### Python
 
@@ -224,7 +225,7 @@ Ezhil            10 mins         ▒░░░░░░░░░░░░░░�
 
 ### Node.js
 
-- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 框架
+- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 脚手架
 
 
 ---
