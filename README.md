@@ -153,13 +153,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Markdown         8 hrs 41 mins   █████████████░░░░░░░░░░░░   52.02 %
-Go               6 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.55 %
-go.mod           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Bash             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Ezhil            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Go               5 hrs 13 mins   ███████████░░░░░░░░░░░░░░   44.11 %
+Markdown         4 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.01 %
+YAML             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Bash             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+go.mod           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
