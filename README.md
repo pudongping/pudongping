@@ -153,13 +153,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Lua        7 hrs 12 mins   ████████████████▒░░░░░░░░   65.28 %
-Go         1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Markdown   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-textmate   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JSON       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Lua        8 hrs 51 mins   ██████████████████▒░░░░░░   73.79 %
+Markdown   1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+textmate   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Go         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JSON       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
