@@ -153,13 +153,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 19 October 2023 - To: 26 October 2023
 
-Markdown   1 hr 5 mins     ████████████████▒░░░░░░░░   65.02 %
-Go         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-Lua        12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-YAML       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Bash       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Markdown   1 hr 5 mins     █████████████▓░░░░░░░░░░░   54.64 %
+Go         32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+Lua        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+YAML       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Bash       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
