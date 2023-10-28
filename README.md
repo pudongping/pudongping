@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 27 October 2023
+From: 21 October 2023 - To: 28 October 2023
 
 Go         1 hr 7 mins     ███████████▒░░░░░░░░░░░░░   45.46 %
 Markdown   1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.00 %
