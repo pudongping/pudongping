@@ -304,6 +304,9 @@ go.mod   0 secs          ░░░░░░░░░░░░░░░░░░�
   <br>
   <ol>
     <li>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a>
+    </li>
+    <li>
         <a href="https://www.dute.org/weird-fonts">怪异英文生成器</a>
     </li>
     <li>
