@@ -151,9 +151,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2023 - To: 03 November 2023
+From: 28 October 2023 - To: 04 November 2023
 
-Go             1 hr 38 mins    █████████████████████████   100.00 %
+Go             1 hr 38 mins    █████████████████████▓░░░   86.32 %
+Markdown       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
 YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 go.mod         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
