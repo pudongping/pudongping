@@ -151,13 +151,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
-Go               3 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.96 %
-SQL              1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-Markdown         1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-Python           1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Go               3 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   39.33 %
+SQL              1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Python           1 hr 48 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+Markdown         1 hr 34 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+JavaScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
