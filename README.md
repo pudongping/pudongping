@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
 Go               3 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   39.33 %
 SQL              1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 %
