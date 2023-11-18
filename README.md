@@ -151,13 +151,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-JavaScript   14 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-Go           14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-Vue.js       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-Text         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
