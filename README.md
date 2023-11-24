@@ -151,10 +151,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-YAML       0 secs          ███████████████▒░░░░░░░░░   61.20 %
-Markdown   0 secs          █████████▓░░░░░░░░░░░░░░░   38.80 %
+YAML       0 secs          ██████████████░░░░░░░░░░░   55.89 %
+Markdown   0 secs          ███████████░░░░░░░░░░░░░░   44.11 %
 ```
 
 <!--END_SECTION:waka-->
