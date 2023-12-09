@@ -151,9 +151,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
-Go   5 mins          █████████████████████████   100.00 %
+Markdown   11 mins         ████████████████▒░░░░░░░░   65.88 %
+Go         5 mins          ████████▓░░░░░░░░░░░░░░░░   34.06 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
