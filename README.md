@@ -231,6 +231,7 @@ go.mod     0 secs          ░░░░░░░░░░░░░░░░░�
 
 - [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具
 - [py-TOTP](https://github.com/pudongping/py-TOTP) - 通过密钥生成 TOTP（Time-based One-time Password）的 Python 小工具。如果你需要开启 2FA ，可能你用得着。
+- [py-fiesta](https://github.com/pudongping/py-fiesta) - 一些有趣的 python 小项目
 
 ### Node.js
 
