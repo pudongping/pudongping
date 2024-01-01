@@ -151,13 +151,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Go         3 hrs 7 mins    ███████████████▓░░░░░░░░░   62.49 %
-Text       58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-HTML       42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-PHP        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text             44 mins         ██████████████▒░░░░░░░░░░   56.75 %
+Go               18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+PHP              7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+SmartyConfig     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+go.mod           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
