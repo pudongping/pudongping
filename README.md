@@ -151,13 +151,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Go               42 mins         ███████████████████▓░░░░░   78.11 %
-SmartyConfig     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-PHP              5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-.env file        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go             42 mins         ████████████████████████▓   98.65 %
+SmartyConfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
