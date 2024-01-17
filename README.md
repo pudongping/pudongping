@@ -151,13 +151,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Go             8 hrs 57 mins   ███████████████████████░░   91.77 %
-Python         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Text           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-TOML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-textmate       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Go               10 hrs 10 mins  ██████████████████████▓░░   90.02 %
+Python           32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Markdown         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Text             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TOML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
