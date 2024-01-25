@@ -151,12 +151,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-Go           2 hrs 11 mins   █████████████████████░░░░   83.37 %
-TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Text         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go           19 mins         ██████████████░░░░░░░░░░░   55.86 %
+TypeScript   15 mins         ███████████░░░░░░░░░░░░░░   44.14 %
 ```
 
 <!--END_SECTION:waka-->
