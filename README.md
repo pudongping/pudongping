@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2024 - To: 30 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
 PHP              2 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.64 %
 Go               2 hrs 10 mins   ███████████░░░░░░░░░░░░░░   43.79 %
