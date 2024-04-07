@@ -151,13 +151,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
-PHP            4 hrs 14 mins   ████████████████████████▒   97.44 %
-Bash           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-.env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP            4 hrs 20 mins   █████████████████████▓░░░   87.15 %
+Markdown       25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Go             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Bash           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
