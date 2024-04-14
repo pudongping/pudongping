@@ -151,13 +151,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-PHP               12 hrs 14 mins  ███████████████▒░░░░░░░░░   61.42 %
-Go                4 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-Python            56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-INI               48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Markdown          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+PHP               12 hrs 7 mins   ██████████████▓░░░░░░░░░░   59.10 %
+Go                4 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+Python            56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+INI               48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Markdown          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
