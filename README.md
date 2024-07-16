@@ -181,6 +181,7 @@ No activity tracked
 - [polyglot-script-box](https://github.com/pudongping/polyglot-script-box) - 记录工作中常用的脚本，包含且不仅限于 PHP 脚本、Golang 脚本、Python 脚本、Shell 脚本以及 Dockfile 等
 - [workflow-action](https://github.com/pudongping/workflow-action) - 自己用到的一些 GitHub Actions
 - [hugo-blog](https://github.com/pudongping/hugo-blog) - 使用 Hugo 搭建的一个极简博客
+- [mp-vx-insight](https://github.com/pudongping/mp-vx-insight) - 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章等功能
 
 ### PHP
 
