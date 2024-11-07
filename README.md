@@ -138,6 +138,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ✉️ [Email](mailto:276558492@qq.com) OR ![Wechat](https://img.shields.io/badge/Alex5198023-5fcd72.svg?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I am happy to help;
 
+![个人微信公众号](./imgs/mp-weixin.png)
+
 > 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://pudongping.github.io/medias/reward/wechat.png" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://pudongping.github.io/medias/reward/alipay.png" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
 
 🏆 **Certificate:**
@@ -175,13 +177,14 @@ No activity tracked
 - [pudongping](https://github.com/pudongping/pudongping) - 个人简介
 - [hexo-blog](https://github.com/pudongping/pudongping.github.io) - 我正在使用的个人博客项目
 - [home-profile](https://github.com/pudongping/home-profile) - 个人开发环境配置信息
-- [notes](https://github.com/pudongping/notes) - 编程笔记
+- [notes](https://github.com/pudongping/notes) - 编程笔记（以后都在 hexo-blog 上了吧）
 - [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
 - [load-balancer](https://github.com/pudongping/load-balancer) - 几种负载均衡调度算法，提供 php 和 go 示例
 - [polyglot-script-box](https://github.com/pudongping/polyglot-script-box) - 记录工作中常用的脚本，包含且不仅限于 PHP 脚本、Golang 脚本、Python 脚本、Shell 脚本以及 Dockfile 等
 - [workflow-action](https://github.com/pudongping/workflow-action) - 自己用到的一些 GitHub Actions
 - [hugo-blog](https://github.com/pudongping/hugo-blog) - 使用 Hugo 搭建的一个极简博客
 - [mp-vx-insight](https://github.com/pudongping/mp-vx-insight) - 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章等功能
+- [mobile-control](https://github.com/pudongping/mobile-control) - 手机自动化脚本
 
 ### PHP
 
@@ -229,8 +232,9 @@ No activity tracked
 - [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具
 - [py-TOTP](https://github.com/pudongping/py-TOTP) - 通过密钥生成 TOTP（Time-based One-time Password）的 Python 小工具。如果你需要开启 2FA ，可能你用得着。
 - [py-fiesta](https://github.com/pudongping/py-fiesta) - 一些有趣的 python 小项目
+- [py-mobile-control](https://github.com/pudongping/py-mobile-control) - 安卓手机自动化脚本
 
-### Node.js
+### 其他
 
 - [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 脚手架
 
