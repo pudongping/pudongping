@@ -184,7 +184,6 @@ No activity tracked
 - [workflow-action](https://github.com/pudongping/workflow-action) - 自己用到的一些 GitHub Actions
 - [hugo-blog](https://github.com/pudongping/hugo-blog) - 使用 Hugo 搭建的一个极简博客
 - [mp-vx-insight](https://github.com/pudongping/mp-vx-insight) - 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章等功能
-- [mobile-control](https://github.com/pudongping/mobile-control) - 手机自动化脚本
 
 ### PHP
 
@@ -234,9 +233,27 @@ No activity tracked
 - [py-fiesta](https://github.com/pudongping/py-fiesta) - 一些有趣的 python 小项目
 - [py-mobile-control](https://github.com/pudongping/py-mobile-control) - 安卓手机自动化脚本
 
-### 其他
+
+<details>
+<summary>其他 </summary>
 
 - [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 脚手架
+- [card-robot-backend-page](https://github.com/pudongping/card-robot-backend-page) - 卡密后台页面
+- [card-robot-backend-api](https://github.com/pudongping/card-robot-backend-api) - 卡密后台接口
+- [card-robot-frontend-page](https://github.com/pudongping/card-robot-frontend-page) - 卡密门户页面
+- [card-robot-frontend-api](https://github.com/pudongping/card-robot-frontend-api) - 卡密门户接口
+- [card-robot-chat-service](https://github.com/pudongping/card-robot-chat-service) - 卡密聊天系统
+- [card-robot-pay-service](https://github.com/pudongping/card-robot-pay-service) - 卡密支付系统
+- [software-shop-api](https://github.com/pudongping/software-shop-api) - 软件商城接口
+- [software-shop-backend-page](https://github.com/pudongping/software-shop-backend-page) - 软件商城后台页面
+- [software-shop-frontend-page](https://github.com/pudongping/software-shop-frontend-page) - 软件商城门户页面
+- [lara-shop-cms](https://github.com/pudongping/lara-shop-cms) - 商城 CMS 接口
+- [lara-shop-api](https://github.com/pudongping/lara-shop-api) - 商城门户接口
+- [hello-mr-anku-pay](https://github.com/pudongping/hello-mr-anku-pay) - 卡密首版码支付代码
+- [lara-hello-mr](https://github.com/pudongping/lara-hello-mr) - 卡密首版聊天系统
+- [mobile-control](https://github.com/pudongping/mobile-control) - 手机自动化脚本
+
+</details>
 
 
 ---
