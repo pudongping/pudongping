@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat">
+    <img src="https://img.shields.io/badge/Gender-%F0%9F%A4%B5 gentleman-critical">
+    <img src="https://img.shields.io/static/v1?label=Wechat&message=Alex5198023&color=7BB32E&logo=wechat">
     <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-pudongping.github.io-orange"></a>
 </p>
 
