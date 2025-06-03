@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23F05033.svg?logo=laravel&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
+    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue.js%20-%232b3847.svg?logo=vue.js"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -74,9 +73,11 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Swoole" src="https://img.shields.io/badge/Swoole%20-%23293339.svg?logo=&logoColor=white"></a>
     <a href="#"><img alt="Hyperf" src="https://img.shields.io/badge/Hyperf%20-%23018ddf.svg?logo=&logoColor=white"></a>
     <a href="#"><img alt="ThinkPHP" src="https://img.shields.io/badge/ThinkPHP%20-%23.svg?logo=&logoColor=white"></a>
-    <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin%20-%234474d2.svg?logo=&logoColor=white"></a>
-    <a href="#"><img alt="Go-Zero" src="https://img.shields.io/badge/go--zero%20-%23b2e0ed.svg?logo=&logoColor=white"></a>
+    <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin-00B894?logo=go&logoColor=white" /></a>
+    <a href="#"><img alt="Go-Zero" src="https://img.shields.io/badge/Go--Zero-2F5BEA?logo=go&logoColor=white" /></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" /></a>
 </p>
+
 
 <p>
     <img alt="Aliyun" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white">
@@ -91,9 +92,11 @@ Here are some ideas to get you started:
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=white"></a>
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-%2395e0d1.svg?logo=elastic&logoColor=white"></a>
+    <a href="#"><img alt="ELK" src="https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white" /></a>
     <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white"></a>
-    <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
+    <a href="#"><img alt="OpenResty" src="https://img.shields.io/badge/OpenResty-00B66C?logo=openresty&logoColor=white" /></a>
+    <a href="#"><img alt="KONG" src="https://img.shields.io/badge/KONG-002659?logo=kong&logoColor=white" /></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
@@ -101,9 +104,12 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-%23326ce5?logo=kubernetes&logoColor=ffffff" /></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white" /></a>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" /></a>
+    <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"></a>
     <a href="#"><img alt="Consul" src="https://img.shields.io/badge/Consul-%23f5f5f6?logo=consul&logoColor=ce4775" /></a>
+    <a href="#"><img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-00AEFF?logo=jaeger&logoColor=white" /></a>
 </p>
+
 
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
@@ -126,12 +132,16 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab%20-blue?logo=gitlab"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%23000000?style=flat&logo=IntelliJ-IDEA&logoColor=%23ffffff" /></a>
-    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-a757ef?logo=GoLand&logoColor=ffffff" /></a>
-    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-eb488b?logo=PhpStorm&logoColor=ffffff" /></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
+
+[//]: # (    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-a757ef?logo=GoLand&logoColor=ffffff" /></a>)
+
+[//]: # (    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-eb488b?logo=PhpStorm&logoColor=ffffff" /></a>)
+
+[//]: # (    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>)
+
+[//]: # (    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>)
 </p>
 
 
@@ -210,6 +220,7 @@ No activity tracked
 
 ### Go
 
+- [wxGraphCrawler](https://github.com/pudongping/wx-graph-crawl) - 微信公众号“小绿书”爬虫🕷️ 跨平台的桌面软件
 - [golang-tutorial](https://github.com/pudongping/golang-tutorial) - Go 学习笔记
 - [go-zero-tutorial](https://github.com/pudongping/go-zero-tutorial) - 学习 go-zero 时做的笔记
 - [goblog](https://github.com/pudongping/goblog) - 使用 go 撸的一个简易 MVC 版本的博客项目
@@ -232,6 +243,7 @@ No activity tracked
 - [py-TOTP](https://github.com/pudongping/py-TOTP) - 通过密钥生成 TOTP（Time-based One-time Password）的 Python 小工具。如果你需要开启 2FA ，可能你用得着。
 - [py-fiesta](https://github.com/pudongping/py-fiesta) - 一些有趣的 python 小项目
 - [py-mobile-control](https://github.com/pudongping/py-mobile-control) - 安卓手机自动化脚本
+- [airtest-mobile-control](https://github.com/pudongping/airtest-mobile-control) - 一些使用网易 airtest 工具写的自动化
 
 
 <details>
@@ -303,8 +315,8 @@ No activity tracked
 <a href="https://github.com/pudongping/hyperf-alarm-clock.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=hyperf-alarm-clock&show_owner=true&theme=nightowl" />
 </a>
-<a href="https://github.com/pudongping/smart-assist.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=smart-assist&show_owner=true&theme=nightowl" />
+<a href="https://github.com/pudongping/wx-graph-crawl.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=wx-graph-crawl&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/pudongping/go-tour.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=go-tour&show_owner=true&theme=nightowl" />
