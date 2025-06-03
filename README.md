@@ -27,12 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
     <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat">
-    <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/website-pudongping.github.io-orange"></a>
-    <img style="border-radius: 2px;" src="https://hits.dwyl.com/pudongping/pudongping/pudongping.svg?style=flat" alt="visitors">
-
-[comment]: <> ( if the badge is down, try this website https://vbr.wocr.tk/badge?page_id=pudongping.pudongping&style=plastic&lcolor=590d22&logo=Github&hit=false but this page maybe have bug)
-[//]: # (    <img src="https://vbr.wocr.tk/badge?page_id=pudongping.pudongping&style=plastic&lcolor=590d22&logo=Github&hit=false" alt="visitors">)
-
+    <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-pudongping.github.io-orange"></a>
 </p>
 
 <br/>
@@ -90,13 +85,10 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23c83d2e.svg?logo=redis&logoColor=white"></a>
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-%2395e0d1.svg?logo=elastic&logoColor=white"></a>
-    <a href="#"><img alt="ELK" src="https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white" /></a>
-    <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white"></a>
-    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
-    <a href="#"><img alt="OpenResty" src="https://img.shields.io/badge/OpenResty-00B66C?logo=openresty&logoColor=white" /></a>
-    <a href="#"><img alt="KONG" src="https://img.shields.io/badge/KONG-002659?logo=kong&logoColor=white" /></a>
+    <a href="#"><img alt="ELK" src="https://img.shields.io/badge/ELK-005571?logo=elasticsearch&logoColor=white" /></a>
+    <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
@@ -108,6 +100,9 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"></a>
     <a href="#"><img alt="Consul" src="https://img.shields.io/badge/Consul-%23f5f5f6?logo=consul&logoColor=ce4775" /></a>
     <a href="#"><img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-00AEFF?logo=jaeger&logoColor=white" /></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
+    <a href="#"><img alt="OpenResty" src="https://img.shields.io/badge/OpenResty-00B66C?logo=openresty&logoColor=white" /></a>
+    <a href="#"><img alt="KONG" src="https://img.shields.io/badge/KONG-002659?logo=kong&logoColor=white" /></a>
 </p>
 
 
@@ -126,11 +121,10 @@ Here are some ideas to get you started:
     <a href="#"><img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/-Chrome-%23539e55?style=plastic&logo=google-chrome&logoColor=%23ffffff"></a>
-    <a href="#"><img alt="Google" src="https://img.shields.io/badge/Google-f2c045?logo=google&logoColor=ffffff&style=plastic"></a>
+    <a href="#"><img alt="Google" src="https://img.shields.io/badge/Google-f1bc42?logo=google&logoColor=ffffff&style=plastic"></a>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab%20-blue?logo=gitlab"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%23000000?style=flat&logo=IntelliJ-IDEA&logoColor=%23ffffff" /></a>
@@ -145,8 +139,8 @@ Here are some ideas to get you started:
 </p>
 
 
-- 📫 How to reach me: ✉️ [Email](mailto:276558492@qq.com) OR ![Wechat](https://img.shields.io/badge/Alex5198023-5fcd72.svg?logo=wechat&logoColor=white)
-- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: ✉️ [Email](mailto:276558492@qq.com) OR ![Wechat](https://img.shields.io/badge/1414818093-5fcd72.svg?logo=wechat&logoColor=white)
+- 💬 Ask me about anything, I'm happy to help;
 
 <img src="./imgs/mp-weixin.png" alt="我的个人微信公众号" style="width: 50%">
 
