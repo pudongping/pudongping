@@ -151,19 +151,6 @@ Here are some ideas to get you started:
 - [RHCSA](https://rhtapps.redhat.com/verify?certId=190-230-177)
 - [RHCE](https://rhtapps.redhat.com/verify?certId=190-230-177)
 
-
-<!-- waka readme - https://github.com/athul/waka-readme -->
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 July 2025 - To: 20 July 2025
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <br/>
 
 ---
@@ -188,6 +175,7 @@ No activity tracked
 - [workflow-action](https://github.com/pudongping/workflow-action) - 自己用到的一些 GitHub Actions
 - [hugo-blog](https://github.com/pudongping/hugo-blog) - 使用 Hugo 搭建的一个极简博客
 - [mp-vx-insight](https://github.com/pudongping/mp-vx-insight) - 微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章等功能
+- [tunnel-proxy](https://github.com/pudongping/tunnel-proxy) - 轻量化的自定义隧道代理，使用 OpenResty 做请求转发
 
 ### PHP
 
