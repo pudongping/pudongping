@@ -231,6 +231,16 @@ Here are some ideas to get you started:
 <details>
 <summary>其他 </summary>
 
+### 没事瞎搞搞
+
+- [mobile-control](https://github.com/pudongping/mobile-control) - 手机自动化脚本
+- [vision-miniapp](https://github.com/pudongping/vision-miniapp) - 『一目渐境』小程序代码
+- [vision-api](https://github.com/pudongping/vision-api) - 『一目渐境』小程序代码 API
+- [cicd-blueprint](https://github.com/pudongping/cicd-blueprint) - 一些项目的 CICD
+- [momento-miniapp](https://github.com/pudongping/momento-miniapp) - 「时光小账本」—— 每一笔账单，都是生活的旁白。
+
+### 吃灰去吧
+
 - [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 脚手架
 - [card-robot-backend-page](https://github.com/pudongping/card-robot-backend-page) - 卡密后台页面
 - [card-robot-backend-api](https://github.com/pudongping/card-robot-backend-api) - 卡密后台接口
@@ -245,7 +255,7 @@ Here are some ideas to get you started:
 - [lara-shop-api](https://github.com/pudongping/lara-shop-api) - 商城门户接口
 - [hello-mr-anku-pay](https://github.com/pudongping/hello-mr-anku-pay) - 卡密首版码支付代码
 - [lara-hello-mr](https://github.com/pudongping/lara-hello-mr) - 卡密首版聊天系统
-- [mobile-control](https://github.com/pudongping/mobile-control) - 手机自动化脚本
+
 
 </details>
 
