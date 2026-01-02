@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://img.shields.io/badge/Gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=Wechat&message=Alex5198023&color=7BB32E&logo=wechat">
-    <a href="https://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-pudongping.github.io-orange"></a>
+    <img src="https://img.shields.io/static/v1?label=Wechat&message=1414818093&color=7BB32E&logo=wechat">
+    <a href="http://pudongping.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-https://pudongping.github.io-orange"></a>
 </p>
 
 <br/>
@@ -128,14 +128,10 @@ Here are some ideas to get you started:
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab%20-blue?logo=gitlab"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="IDEA" src="https://img.shields.io/badge/-IDEA-%23000000?style=flat&logo=IntelliJ-IDEA&logoColor=%23ffffff" /></a>
-
-[//]: # (    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-a757ef?logo=GoLand&logoColor=ffffff" /></a>)
-
-[//]: # (    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-eb488b?logo=PhpStorm&logoColor=ffffff" /></a>)
-
-[//]: # (    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>)
-
-[//]: # (    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>)
+    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-a757ef?logo=GoLand&logoColor=ffffff" /></a>
+    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-eb488b?logo=PhpStorm&logoColor=ffffff" /></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
 </p>
 
 
@@ -152,6 +148,14 @@ Here are some ideas to get you started:
 - [RHCE](https://rhtapps.redhat.com/verify?certId=190-230-177)
 
 <br/>
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pudongping&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pudongping&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pudongping&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pudongping&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pudongping&theme=algolia&utcOffset=8)
 
 ---
 
@@ -238,6 +242,7 @@ Here are some ideas to get you started:
 - [vision-api](https://github.com/pudongping/vision-api) - 『一目渐境』小程序代码 API
 - [cicd-blueprint](https://github.com/pudongping/cicd-blueprint) - 一些项目的 CICD
 - [momento-miniapp](https://github.com/pudongping/momento-miniapp) - 「时光小账本」—— 每一笔账单，都是生活的旁白。
+- [momento-api](https://github.com/pudongping/momento-api) - 「时光小账本」API —— 每一笔账单，都是生活的旁白。
 
 ### 吃灰去吧
 
