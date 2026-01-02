@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Hyperf" src="https://img.shields.io/badge/Hyperf%20-%23018ddf.svg?logo=&logoColor=white"></a>
     <a href="#"><img alt="ThinkPHP" src="https://img.shields.io/badge/ThinkPHP%20-%23.svg?logo=&logoColor=white"></a>
     <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin-00B894?logo=go&logoColor=white" /></a>
-    <a href="#"><img alt="Go-Zero" src="https://img.shields.io/badge/Go--Zero-2F5BEA?logo=go&logoColor=white" /></a>
+    <a href="#"><img alt="Go-Zero" src="https://img.shields.io/badge/Go--Zero-A6E2EF?logo=go&logoColor=white" /></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" /></a>
 </p>
 
