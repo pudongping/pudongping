@@ -209,6 +209,8 @@ Here are some ideas to get you started:
 - [wxGraphCrawler](https://github.com/pudongping/wx-graph-crawl) - 微信公众号“小绿书”爬虫🕷️ 跨平台的桌面软件
 - [golang-tutorial](https://github.com/pudongping/golang-tutorial) - Go 学习笔记
 - [go-zero-tutorial](https://github.com/pudongping/go-zero-tutorial) - 学习 go-zero 时做的笔记
+- [zero-doraemon](https://github.com/pudongping/zero-doraemon) - go-zero 框架辅助开发脚手架
+- [zero-models](https://github.com/pudongping/zero-models) - 一个基于 go-zero 的数据库模型生成工具集
 - [goblog](https://github.com/pudongping/goblog) - 使用 go 撸的一个简易 MVC 版本的博客项目
 - [go-im-system](https://github.com/pudongping/go-im-system) - 使用 go 写的一个简易即时通讯系统
 - [go-chat-room](https://github.com/pudongping/go-chat-room) - 使用 go 写的一个简单聊天室
